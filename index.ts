@@ -2,6 +2,9 @@
 
 import inquirer from "inquirer";
 
+console.log("Welcome to My Calculator");
+
+
 const answer = await inquirer.prompt([
   {
     message: "Enter First Number:",
@@ -34,6 +37,8 @@ else if(answer.operator === "Division"){
   console.log("Your value is " + Number(answer.firstNumber / answer.secondNumber));
 }
 else {
-  console.log("Please Select a valid operator");
-  
+  console.log("Please Select a valid operator"); 
 }
+
+console.log("Thank you for using it!!");
+
