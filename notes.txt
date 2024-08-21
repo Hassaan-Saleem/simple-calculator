@@ -1,17 +1,1 @@
-target ko change kra ES2022
-module change kara NODENEXT
-module resolution uncomment kara aur change kra NodeNext
- package json m yeh add krna hy "type": "module",
- npm i inquirer
-Inquirer ek npm package hai jo command-line interfaces (CLI) mein user se input lene ke liye use hota hai. Aapke code mein, jo ke JavaScript (JS) ya TypeScript (TS) mein likha hota hai, Inquirer aapko different types ke prompts provide karta hai. Yeh prompts user se data lene mein madad karte hain.
-Inquirer Kya Karta Hai:
-Questions Puchta Hai: Inquirer aapko different types ke questions (prompts) provide karta hai, jaise ke text input, multiple-choice questions, ya confirmation dialogues.
-User Input Ko Handle Karta Hai: Jab user koi input deta hai, Inquirer us input ko handle karta hai aur aapke code ko wo data provide karta hai.
-Asynchronous Operations: Inquirer asynchronous (async) operations ko support karta hai, matlab aap code execution ko rok sakte hain jab tak user response nahi deta.
-samjho k npm jo hy wo aik bani bnayi cheez apky project m dlta hy jis sy k apko asaani ho.
-"inquirer": "^10.1.8" cap jo laga hy yeh future m koi update aati hy tw isy latest evrsion  pr krdeta hy.
-npm i --save-dev @types/inquirer For Development work and dev dependencies
-
-Lecture 3: Make it public.
-#! /usr/bin/env node yeh terminal pr executable pr hai. isko Shabang bolty hain. 
-
+Nothing here.
